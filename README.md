@@ -37,10 +37,10 @@ The project is divided into the following components:
 5. Open the browser at http://localhost:3000 to play the game.
 
 ## Game FLow
-Starting the Game: Once the game begins, players alternate turns. The active player is highlighted.
-Making Moves: Players click on a square to place their symbol. Squares already marked by either player are disabled.
-Game Over: Once a winner is found or all squares are filled, the game ends, and the result is displayed.
-Rematch: After a game is over, players can choose to start a new game by clicking "Rematch."
+- Starting the Game: Once the game begins, players alternate turns. The active player is highlighted.
+- Making Moves: Players click on a square to place their symbol. Squares already marked by either player are disabled.
+- Game Over: Once a winner is found or all squares are filled, the game ends, and the result is displayed.
+- Rematch: After a game is over, players can choose to start a new game by clicking "Rematch."
 
 ## Contributing
 Feel free to fork this project and submit pull requests. Any suggestions or improvements are welcome!
